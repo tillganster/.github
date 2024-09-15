@@ -1,0 +1,4 @@
+labels:
+  - name: root-label
+    color: "#567823"
+    description: "This label comes from main repo"
